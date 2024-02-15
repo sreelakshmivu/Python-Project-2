@@ -1,6 +1,7 @@
 # Python-Project-2
 
-Exploratory Data Analysis
+Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA) refers to the method of studying and exploring record sets to apprehend their predominant traits, discover patterns, locate outliers, and identify relationships between variables. EDA is normally carried out as a preliminary step before undertaking extra formal statistical analyses or modeling.
 
 Introduction:
 
@@ -20,3 +21,4 @@ High Spending Analysis: Point out the teams and positions where salary expenditu
 
 Correlation between Age and Salary: Employing visual representation, explore the correlation between age and salary to discern any trends within the dataset.
 
+This analysis provides insights into the composition of employees in each team, their positions, age distribution, salary spending, and the relationship between age and salary.
